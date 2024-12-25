@@ -1,4 +1,3 @@
-DROP SCHEMA public CASCADE;
 CREATE SCHEMA IF NOT EXISTS public;
 
 -- таблица аккаунтов
